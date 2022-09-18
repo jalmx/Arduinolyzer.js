@@ -32,3 +32,8 @@ index.html
 -- Add time-axes and markers
 -- Try HTML5 server-sent events instead of socket.io
 
+## Original post
+
+[instructables](https://www.instructables.com/Arduinolyzerjs-Turn-your-Arduino-into-a-Logic-Anal/)
+
+Author: [Catoblepas](https://www.instructables.com/member/Catoblepas/)
